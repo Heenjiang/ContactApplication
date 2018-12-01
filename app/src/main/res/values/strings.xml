@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContactApplication</string>
+    <string name="save_button">save</string>
+    <string name="find_button">find</string>
+</resources>

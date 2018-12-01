@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sava_button">90dp</dimen>
+    <dimen name="find_button_left">100dp</dimen>
+    <dimen name="name_style">200dp</dimen>
+    <dimen name="name_style_margin_top">150dp</dimen>
+</resources>
